@@ -1,24 +1,6 @@
-# README
+An app to list all the jobs pertaining to a particular technology in a particular location using indeed api.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Features to be added:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Dynamic pagination
+Russian doll Caching
